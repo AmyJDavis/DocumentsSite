@@ -17,6 +17,7 @@ In a seroprevalence study you may be interested in determining if the seropreval
 
 There are three main factors that influence Power: the difference you want to detect, the variability in the estimates, and the Type I error.  The variability in the estimates is directly related to the number of samples that are collected (more samples = lower variability).  Based on the difference you want to detect and the Type I error you are willing to accept, we can determine how many samples you need to collect to get the desired Power. 
 
+![alt text](https://github.com/AmyJDavis/DocumentsSite/blob/main/Powerfig.jpg?raw=true)  
 
 ## Keep in mind
 1.	Best to do power calculations early 
@@ -27,4 +28,4 @@ There are three main factors that influence Power: the difference you want to de
     * Power calculations are based on the assumptions you set, if reality varies from these assumptions the power calculations may be off.  Keep this in mind when setting your values and err on the side of caution.
 
 
-{% include links.html %}
+
