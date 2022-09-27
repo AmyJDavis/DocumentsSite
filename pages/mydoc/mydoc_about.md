@@ -3,7 +3,7 @@ title: About the author
 keywords: statisitics
 last_updated: September 27, 2022
 tags: [getting_started]
-summary: "I am a quantitative ecologist. I like helping other"
+summary: "I am a quantitative ecologist. I like helping others."
 sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
