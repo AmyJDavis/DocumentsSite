@@ -35,7 +35,7 @@ entries:
       url: /mydoc_about.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Basics
     output: web, pdf
     folderitems:
 
