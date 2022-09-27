@@ -39,15 +39,15 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: What are models
+      url: /mydoc_what_are_models.html
       output: web, pdf
 
     - title: What is power
       url: /mydoc_what_is_power.html
       output: web, pdf
 
-  - title: Installation
+  - title: More
     output: web, pdf
     folderitems:
 
