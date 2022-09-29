@@ -47,12 +47,12 @@ entries:
       url: /mydoc_what_is_power.html
       output: web, pdf
 
-  - title: More
+  - title: My repositories
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: Dynamic multi-method removal model
+      url: /mydoc_dynamic_removal.html
       output: web, pdf
 
     - title: Install Jekyll on Mac
