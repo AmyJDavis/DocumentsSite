@@ -1,8 +1,8 @@
 ---
-title: "Special layout pages"
-tagName: special_layouts
+title: "Repositories Page"
+tagName: repositories
 search: exclude
-permalink: tag_special_layouts.html
+permalink: tag_repositories.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
