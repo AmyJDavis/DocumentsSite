@@ -2,6 +2,7 @@
 title: NRMP Data Checking Application
 permalink: mydoc_data_checking.html
 keywords: shiny app, data checking
+tags: [shinyapp, repositories]
 summary: "Here I present code for an application to check data from the National Rabies Management Program."
 sidebar: mydoc_sidebar
 folder: mydoc
