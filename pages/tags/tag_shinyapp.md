@@ -1,8 +1,8 @@
 ---
-title: "Troubleshooting pages"
-tagName: troubleshooting
+title: "Shiny App Pages"
+tagName: shinyapp
 search: exclude
-permalink: tag_troubleshooting.html
+permalink: tag_shinyapp.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
