@@ -1,6 +1,6 @@
 ---
 title: Mexican Wolf Population Model
-tags: [getting_started, troubleshooting]
+tags: [getting_started, repositories]
 keywords:
 summary: "This population model estimates population growth and reduction factors for Mexican Wolves. "
 sidebar: mydoc_sidebar
