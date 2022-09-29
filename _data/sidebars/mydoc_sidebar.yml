@@ -66,3 +66,33 @@ entries:
     - title: Mexican wolf population model
       url: /mydoc_mexican_wolf.html
       output: web, pdf
+      
+  - title: Tag archives
+    output: web
+    folderitems:
+
+    - title: Tag archives overview
+      url: /mydoc_tag_archives_overview.html
+      output: web
+
+      subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
+
+        - title: Shiny App Pages
+          url: /tag_shinyapp.html
+          output: web
+
+        - title: Repository Pages
+          url: /tag_repositories.html
+          output: web
+
+        - title: Publication pages
+          url: /tag_publishing.html
+          output: web
+
+        - title: Collaboration pages
+          url: /tag_collaboration.html
+          output: web
+
