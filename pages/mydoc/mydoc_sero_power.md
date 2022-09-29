@@ -1,6 +1,6 @@
 ---
 title: Seroprevalence Power Analysis Application
-tags: [repositories]
+tags: [repositories,shinyapp]
 keywords: shiny app, seroprevalence
 summary: "Code for an application to conduct a power analysis for serology studies."
 sidebar: mydoc_sidebar
