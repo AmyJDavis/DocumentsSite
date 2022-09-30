@@ -1,8 +1,8 @@
 ---
-title: "Mobile Pages"
+title: "Shiny App Pages"
+tagName: shinyapp
 search: exclude
-tagName: mobile
-permalink: tag_mobile.html
+permalink: tag_shinyapp.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

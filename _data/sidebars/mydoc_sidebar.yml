@@ -47,19 +47,52 @@ entries:
       url: /mydoc_what_is_power.html
       output: web, pdf
 
-  - title: More
+  - title: My repositories
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: Dynamic multi-method removal model
+      url: /mydoc_dynamic_removal.html
       output: web, pdf
 
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
+    - title: Data checking application
+      url: /mydoc_data_checking.html
       output: web, pdf
 
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
+    - title: Seroprevalence power calculator
+      url: /mydoc_sero_power.html
       output: web, pdf
+
+    - title: Mexican wolf population model
+      url: /mydoc_mexican_wolf.html
+      output: web, pdf
+      
+  - title: Tag archives
+    output: web
+    folderitems:
+
+    - title: Tag archives overview
+      url: /mydoc_tag_archives_overview.html
+      output: web
+
+      subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
+
+        - title: Shiny App Pages
+          url: /tag_shinyapp.html
+          output: web
+
+        - title: Repository Pages
+          url: /tag_repositories.html
+          output: web
+
+        - title: Publication pages
+          url: /tag_publishing.html
+          output: web
+
+        - title: Collaboration pages
+          url: /tag_collaboration.html
+          output: web
 

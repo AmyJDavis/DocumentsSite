@@ -1,11 +1,12 @@
 ---
-title: "Formatting pages"
-tagName: formatting
+title: "Repositories Page"
+tagName: repositories
 search: exclude
-permalink: tag_formatting.html
+permalink: tag_repositories.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
+
 {% include taglogic.html %}
 
 {% include links.html %}
